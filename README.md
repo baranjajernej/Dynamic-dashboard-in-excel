@@ -6,4 +6,6 @@ Dynamic daschboard displays the statistical overview of the SPOT (eVEM) portal f
 
 Main data set in available here - https://spot.gov.si/sl/portal-in-tocke-spot/o-portalu-spot/portal-spot-skozi-stevilke/ 
 
+[Remark: macros must be enabled.]
+
 Jernej Baranja
