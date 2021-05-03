@@ -4,7 +4,7 @@ Demonstration of a dynamic dashboard made in excel with the combination of vario
 
 Dynamic daschboard displays the statistical overview of the SPOT (eVEM) portal for year 2020 in an interactive way.
 
-Main data set in available here - https://spot.gov.si/sl/portal-in-tocke-spot/o-portalu-spot/portal-spot-skozi-stevilke/ 
+Main data set is available here - https://spot.gov.si/sl/portal-in-tocke-spot/o-portalu-spot/portal-spot-skozi-stevilke/ 
 
 [Remark: macros must be enabled.]
 
